@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: red;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+a{
+    padding: 3rem;
+}
